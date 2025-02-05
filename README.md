@@ -14,6 +14,16 @@ GTK_ClientManager est une application de gestion de clients développée en C av
 - **Langage** : C  
 - **Bibliothèque GUI** : GTK4 , cairo
 - **Stockage** : Fichier texte (`client.txt`,`compte.txt`)  
+## 📁 **Structure du projet**
+
+```bash
+GTK_ClientManager/
+├── src/         # Code source (.c et .h)
+├── files/       # Fichiers de données (ex: client.txt, compte.txt)
+├── obj/         # Fichiers objets compilés (.o)
+├── README.md    # Documentation du projet
+└── Makefile     # Script de compilation
+```
 
 ## 🔧 **Installation et exécution**  
 ### **1️⃣ Prérequis**  

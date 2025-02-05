@@ -1,0 +1,1 @@
+code_client: 1 code_compte: 1 type_operation: Dépôt montant: 50.00

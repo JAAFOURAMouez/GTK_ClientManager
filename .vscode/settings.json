@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "client.h": "c",
+        "outils.h": "c",
+        "operation_menu.h": "c",
+        "operation_pdf.h": "c"
+    }
+}
