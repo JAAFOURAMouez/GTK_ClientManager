@@ -1,16 +1,15 @@
-Description :
-🔹 GTK_ClientManager est une application de gestion de clients développée en C avec GTK pour l'interface graphique.
-Elle permet d'ajouter, modifier, supprimer et afficher des clients stockés dans un fichier.
+GTK_ClientManager
+GTK_ClientManager est une application de gestion de clients développée en C avec GTK pour l'interface graphique. Elle permet d'ajouter, modifier, supprimer et afficher des clients enregistrés dans un fichier texte.
 
-💡 Fonctionnalités principales :
+🚀 Fonctionnalités
 ✅ Interface graphique intuitive avec GTK
-✅ Ajout, modification et suppression de clients
-✅ Affichage des clients sous forme de tableau
-✅ Recherche et tri des données
+✅ Ajout de nouveaux clients
+✅ Modification des informations d’un client
+✅ Suppression d’un client existant
+✅ Affichage et tri des clients dans une liste
+✅ Recherche de clients par code ou nom
 
-🚀 Technologies utilisées :
-
+🛠️ Technologies utilisées
 Langage : C
-Bibliothèque GUI : GTK
-Gestion des fichiers : Fichier texte (client.txt)
-Idéal pour un projet personnel, académique ou un petit CRM open-source. 🎯
+Bibliothèque GUI : GTK4
+Stockage : Fichier texte (client.txt)
