@@ -23,11 +23,16 @@ GTK_ClientManager est une application de gestion de clients développée en C av
   brew install gtk4              # macOS
 - Installer cairo :  
   ```bash
-  sudo apt install libgtk-4-dev  # Ubuntu / Debian
-  brew install gtk4              # macOS
+  sudo apt install libcairo2-dev  # Ubuntu / Debian  
+  brew install cairo                      # macOS
+
 ### **2️⃣ Compilation et exécution**
--Cloner le dépôt :
+- Cloner le dépôt :
   ```bash
   git clone https://github.com/JAAFOURAMouez/GTK_ClientManager.git
   cd GTK_ClientManager
-
+  
+### **📌 Améliorations possibles**
+- Ajouter une base de données SQLite pour stocker les clients
+- Ajouter un mode sombre pour l’interface
+- Générer des rapports PDF des clients
